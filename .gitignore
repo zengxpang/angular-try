@@ -1,0 +1,11 @@
+dist
+
+.idea
+
+.vscode
+
+node_modules
+
+.angular
+
+.stackblitzrc
